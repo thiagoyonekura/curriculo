@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3rem;
+    background-color: #ADD8E6;
+}
+
+.autor{
+    color: #000099;
+    /* short hand */
+    border-bottom: dotted 1rem #00ccff;
+    font-size: 3em;
+}
+
+.prof{
+    color: #4666FF;
+}
+
+.description{
+    color: #333333;
+}
+
+.contato{
+    border: solid black;
+    padding: 1rem;
+    text-align: center;
+}
+
+.contato li{
+    text-align: left;
+    
+}
+
+.iconnet{
+    font-size: 2rem;
+}
+.fa-brands fa-linkedin{
+    color: black;
+}
